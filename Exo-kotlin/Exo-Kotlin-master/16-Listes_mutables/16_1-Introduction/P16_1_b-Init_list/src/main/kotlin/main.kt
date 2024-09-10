@@ -1,5 +1,6 @@
 fun main() {
-    val numbers = // put your code here
+    val numbers = 0 * 100
+
 
         // do not touch the lines below
         println(numbers.joinToString())
