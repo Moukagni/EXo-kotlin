@@ -7,4 +7,4 @@ fun pow(thirteen:Int): Int {
             println(thirteen)
         }
     }
-} // POUR LA PUISSANCE
+}

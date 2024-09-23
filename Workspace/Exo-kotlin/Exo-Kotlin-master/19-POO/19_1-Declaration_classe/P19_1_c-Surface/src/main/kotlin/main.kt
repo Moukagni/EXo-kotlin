@@ -4,7 +4,8 @@ class Rectangle {
 }
 
 fun printArea(rectangle: Rectangle) {
-    // ...
+    val area = rectangle.width * rectangle.height
+    println("The area of the rectangle is : $area")
 }
 
 fun main() {
