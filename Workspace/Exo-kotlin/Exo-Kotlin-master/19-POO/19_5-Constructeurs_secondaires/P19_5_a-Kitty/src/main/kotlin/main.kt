@@ -1,5 +1,14 @@
 class Kitty {
-    // write here
+    var color:String
+    var age:Int
+
+    constructor(){
+        this.color="Unknown"
+        this.age=0
+    }
+    constructor(color:String,age:Int){
+
+    }
 }
 
 
